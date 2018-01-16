@@ -1,0 +1,7 @@
+{
+    "require": {
+        "doctrine/collections": "^1.5",
+        "illuminate/support": "^5.5",
+        "symfony/var-dumper": "^4.0"
+    }
+}
